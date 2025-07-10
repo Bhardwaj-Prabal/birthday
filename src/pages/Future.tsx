@@ -11,7 +11,7 @@ const Future: React.FC = () => {
     {
       id: 1,
       title: 'World Explorer',
-      description: 'Fulfilling your dream of visiting every continent, collecting memories from Paris to Bali',
+      description: 'Fulfilling your dream of visiting every continent, collecting memories from Paris to Greece',
       icon: MapPin,
       color: 'from-pink-400 to-rose-500'
     },
@@ -25,14 +25,14 @@ const Future: React.FC = () => {
     {
       id: 3,
       title: 'Creative Visionary',
-      description: 'Expressing your artistic soul through design, photography, and all your creative passions',
+      description: 'Expressing your artistic soul through dancing and architecture',
       icon: Palette,
       color: 'from-pink-500 to-rose-400'
     },
     {
       id: 4,
       title: 'Lifelong Learner',
-      description: 'Always growing, taking courses, reading books - your curiosity knows no bounds',
+      description: 'Always growing, sometimes through tough lessons',
       icon: BookOpen,
       color: 'from-rose-500 to-pink-400'
     }
