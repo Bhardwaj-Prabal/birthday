@@ -421,10 +421,8 @@ const PhotoCapture: React.FC = () => {
                 <h2 className="text-4xl font-bold bg-gradient-to-r from-pink-500 via-rose-500 to-purple-600 bg-clip-text text-transparent mb-6">
                   💕 Beautiful Love Memories Created! 💕
                 </h2>
-                <p className="text-xl text-pink-700 leading-relaxed mb-8 font-semibold">
-                  Your three precious love-filled birthday photos have been captured and uploaded to IPFS! 
-                  Each one captures a unique moment of pure joy, love, and celebration. These magical memories 
-                  are now preserved forever on the decentralized web! 💖✨
+                <p className="text-xl text-pink-700 leading-relaxed mb-8 font-semibold"> 
+                  Each one captures a unique moment of pure joy, love, and celebration.💖✨
                 </p>
                 <button
                   onClick={retakeAll}
