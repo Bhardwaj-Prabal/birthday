@@ -18,7 +18,7 @@ const Note: React.FC = () => {
   Happy Birthday to the most amazing person I know. Here's to many more years of love, laughter, and endless happiness together.
 
   With all my love,
-  Your devoted admirer 💕`;
+`;
 
   return (
     <PageTransition>
